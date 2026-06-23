@@ -9,14 +9,16 @@ Every download is automatically saved in a universal format (**H.264 + AAC MP4**
 so it plays everywhere — QuickTime, Telegram, iPhone, and video editors. No more
 "unsupported file" errors.
 
-![Bulk Playlist Downloader](screenshot.png)
+<img width="2160" height="2160" alt="screenshot" src="https://github.com/user-attachments/assets/5440e720-cbed-4cb3-b30c-bd299fbed5a2" />
+
+
 
 ## Features
 
 - Paste a playlist / channel / video link → see every video, pick what you want
 - Bulk download with a live per-video progress bar
 - Video or audio-only, quality up to 4K, choice of audio format & bitrate
-- Parallel downloads (1–4 at a time)
+- Parallel downloads (1–3 at a time)
 - Optional subtitles, metadata tags, and embedded thumbnails
 - "Don't re-download" mode (keeps an archive of what you already grabbed)
 - Use your browser cookies to fetch private / sign-in-required videos
